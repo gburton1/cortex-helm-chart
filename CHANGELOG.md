@@ -2,6 +2,7 @@
 
 ## master / unreleased
 
+* [ENHANCEMENT] Upgrade Nginx to 1.22
 * [FEATURE] Add Overrides-Exporter #360
 
 ## 1.5.1 / 2022-05-25
